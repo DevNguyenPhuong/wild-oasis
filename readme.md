@@ -8,4 +8,4 @@ For studying purpose
 npm run dev
 ```
 
-Deploy at: https://the-wild-oasis-study.vercel.app/login
+Deploy at: https://the-wild-oasis-study.vercel.app

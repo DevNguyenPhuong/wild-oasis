@@ -95,6 +95,7 @@ const GlobalStyles = createGlobalStyle`
   --border-radius-lg: 9px;
 }
 
+
 *,
 *::before,
 *::after {
