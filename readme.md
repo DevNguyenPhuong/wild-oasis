@@ -1,3 +1,11 @@
 # The wild Oasis - Study project
 
-Main project in Jonas Schmedtman's Ultimate React course. Built with React query and supabase
+For studying purpose
+
+## Run code
+
+```javascript
+npm run dev
+```
+
+Deploy at: https://the-wild-oasis-study.vercel.app/login
