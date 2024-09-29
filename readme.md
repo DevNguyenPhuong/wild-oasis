@@ -1,4 +1,4 @@
-# Cabin management - Study project
+# wild oasis - Study project
 
 For studying purpose
 
