@@ -1,4 +1,4 @@
-![Alt text](https://raw.githubusercontent.com/DevNguyenPhuong/wild-oasis-website/main/wildOasis-web.jpg)
+![Alt text](https://raw.githubusercontent.com/DevNguyenPhuong/wild-oasis/main/wildOasis.png.jpg)
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents" />
